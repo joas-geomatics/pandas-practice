@@ -1,2 +1,9 @@
-# pandas-practice
-Pandas practice exercises applied to geomatics and coastal risk analysis.
+# Pandas Practice (Geomatics)
+
+This repository contains beginner-to-intermediate Pandas exercises focused on GIS-related data:
+- data inspection
+- derived indicators (e.g., density)
+- filtering (risk threshold)
+- aggregation
+- exporting clean CSV outputs
+
